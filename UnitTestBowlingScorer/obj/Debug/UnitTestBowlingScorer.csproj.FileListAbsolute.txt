@@ -1,0 +1,7 @@
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\bin\Debug\UnitTestBowlingScorer.dll
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\bin\Debug\UnitTestBowlingScorer.pdb
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\bin\Debug\BowlingScorer.dll
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\bin\Debug\BowlingScorer.pdb
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\obj\Debug\UnitTestBowlingScorer.csprojResolveAssemblyReference.cache
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\obj\Debug\UnitTestBowlingScorer.dll
+c:\users\ramesh\documents\visual studio 2012\Projects\BowlingScorer\UnitTestBowlingScorer\obj\Debug\UnitTestBowlingScorer.pdb
